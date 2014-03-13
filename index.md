@@ -1,4 +1,7 @@
-# RailsMN Talks (by @jaw6)
+---
+layout: default
+---
+# RailsMN Talks (by [@jaw6](https://github.com/jaw6))
 
 ### Ruby, Rake, Rails
 
